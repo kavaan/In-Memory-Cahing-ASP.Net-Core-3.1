@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samin\\Desktop\\Quick\\In_Memory_Caching_ASP_DOT_NET_Core\\In_Memory_Caching_ASP_DOT_NET_Core.csproj": {}
+    "c:\\Users\\Samin\\Desktop\\Quick\\In_Memory_Caching_ASP_DOT_NET_Core\\In_Memory_Caching_ASP_DOT_NET_Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Samin\\Desktop\\Quick\\In_Memory_Caching_ASP_DOT_NET_Core\\In_Memory_Caching_ASP_DOT_NET_Core.csproj": {
+    "c:\\Users\\Samin\\Desktop\\Quick\\In_Memory_Caching_ASP_DOT_NET_Core\\In_Memory_Caching_ASP_DOT_NET_Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samin\\Desktop\\Quick\\In_Memory_Caching_ASP_DOT_NET_Core\\In_Memory_Caching_ASP_DOT_NET_Core.csproj",
+        "projectUniqueName": "c:\\Users\\Samin\\Desktop\\Quick\\In_Memory_Caching_ASP_DOT_NET_Core\\In_Memory_Caching_ASP_DOT_NET_Core.csproj",
         "projectName": "In_Memory_Caching_ASP_DOT_NET_Core",
-        "projectPath": "C:\\Users\\Samin\\Desktop\\Quick\\In_Memory_Caching_ASP_DOT_NET_Core\\In_Memory_Caching_ASP_DOT_NET_Core.csproj",
+        "projectPath": "c:\\Users\\Samin\\Desktop\\Quick\\In_Memory_Caching_ASP_DOT_NET_Core\\In_Memory_Caching_ASP_DOT_NET_Core.csproj",
         "packagesPath": "C:\\Users\\Samin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samin\\Desktop\\Quick\\In_Memory_Caching_ASP_DOT_NET_Core\\obj\\",
+        "outputPath": "c:\\Users\\Samin\\Desktop\\Quick\\In_Memory_Caching_ASP_DOT_NET_Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
